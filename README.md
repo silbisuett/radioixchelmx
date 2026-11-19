@@ -1,7 +1,7 @@
 # 📻 Reproductores de videos AMVI (Audio Multimedia video Ixchel)
 
 Bienvenido al repositorio oficial de los reproductores de AMVI. 
-Aquí puedes encontrar los instaladores actualizados para tu sistema operativo.
+Aquí puedes encontrar los instaladores actualizados para tu sistema operativo. El creador de videos AMVI, lo puedes encontrar en: https://radioixchelmx.free.nf/crea-amvi/?i=1
 
 ## 📥 Descargas
 
