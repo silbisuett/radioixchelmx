@@ -11,7 +11,7 @@ Haz clic en el enlace correspondiente a tu sistema operativo para descargar la �
   [⬇️ Descargar repro-amvi_1.0.0_amd64.deb](https://github.com/silbisuett/radioixchelmx/releases/download/v1.0.0/repro-amvi_1.0.0_amd64.deb)
 
 - 🪟 **Windows**:  
-  [⬇️ Descargar Repro.AMVI.Setup.1.0.0.exe.zip](https://github.com/silbisuett/radioixchelmx/releases/download/v1.0.0/Repro.AMVI.Setup.1.0.0.exe)
+  [⬇️ Descargar Repro.AMVI.Setup.1.0.0.exe](https://github.com/silbisuett/radioixchelmx/releases/download/v1.0.0/Repro.AMVI.Setup.1.0.0.exe)
 
 ---
 *¿Tienes problemas con la instalación? Abre un [Issue](https://github.com/silbisuett/radioixchelmx/issues) y te ayudaremos.*
